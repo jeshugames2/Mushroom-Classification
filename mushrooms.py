@@ -71,7 +71,7 @@ for i, j in enumerate(np.unique(y_set)):
 
 plt.xlabel("PC1")
 plt.ylabel("PC2")
-plt.title("Mushroom Classification (Test Set)")
+plt.title("Mushroom Classification (Training Set)")
 plt.legend()
 plt.show()
 
